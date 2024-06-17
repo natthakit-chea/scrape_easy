@@ -1,0 +1,10 @@
+* 'API': /api/statpophouse/v1/statpop/list?action=24 
+* 'yymm': 6612
+* 'nat': national: 99 = สัญชาติไทย
+* 'popst': condition : (0, ตามทะเบียนบ้าน), (8,ตามทะเบียนบ้านกลาง), (9,ย้าย)
+* 'region': null
+* 'cc': Provice code :85
+* 'rcode': Distrinct code :8501
+* 'tt': NaN
+* 'mm': null
+* note: action=24 mean qurry 
